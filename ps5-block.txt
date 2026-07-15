@@ -61,16 +61,16 @@
 # ===============================================================
 # Game/content update download infrastructure (CDN + package endpoints)
 # ===============================================================
-0.0.0.0 gs.ww.np.dl.playstation.net
+#0.0.0.0 gs.ww.np.dl.playstation.net
 #0.0.0.0 gs.ww.np.dl.playstation.net.edgesuite.net
-0.0.0.0 b0.ww.np.dl.playstation.net
-0.0.0.0 b0.ww.np.dl.playstation.net.edgesuite.net
-0.0.0.0 gs2.ww.prod.dl.playstation.net
-0.0.0.0 gs2.ww.prod.dl.playstation.net.edgesuite.net
-0.0.0.0 gst.prod.dl.playstation.net
-0.0.0.0 gst.prod.dl.playstation.net.edgesuite.net
-0.0.0.0 sgst.prod.dl.playstation.net
-0.0.0.0 sgst.prod.dl.playstation.net.edgesuite.net
+#0.0.0.0 b0.ww.np.dl.playstation.net
+#0.0.0.0 b0.ww.np.dl.playstation.net.edgesuite.net
+#0.0.0.0 gs2.ww.prod.dl.playstation.net
+#0.0.0.0 gs2.ww.prod.dl.playstation.net.edgesuite.net
+#0.0.0.0 gst.prod.dl.playstation.net
+#0.0.0.0 gst.prod.dl.playstation.net.edgesuite.net
+#0.0.0.0 sgst.prod.dl.playstation.net
+#0.0.0.0 sgst.prod.dl.playstation.net.edgesuite.net
 # ===============================================================
 # Additional Sony/PSN endpoints repeatedly included in community “update block” lists
 # ===============================================================
