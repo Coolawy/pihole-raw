@@ -30,7 +30,7 @@
 #0.0.0.0 dru01.ps5.update.playstation.net
 #0.0.0.0 dsa01.ps5.update.playstation.net
 #0.0.0.0 dtw01.ps5.update.playstation.net
-#0.0.0.0 duk01.ps5.update.playstation.net
+0.0.0.0 duk01.ps5.update.playstation.net
 #0.0.0.0 dus01.ps5.update.playstation.net
 #0.0.0.0 fau01.ps5.update.playstation.net
 #0.0.0.0 fbr01.ps5.update.playstation.net
